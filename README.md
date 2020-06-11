@@ -3,6 +3,25 @@ Automatically Any Website Viewer
 ***
  Just open the file with Python3 but before install the Geckodriver! I put it on down for install
 ***
+Installation Of Geckodriver:
+
+For 32 Bit OS:
+
+Download Geckodriver From here: https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux32.tar.gz
+Open terminal and go to the forder where you installed Geckodriver
+Type These:
+ tar -xvzf geckodriver*
+ chmod +x geckodriver 
+ sudo mv -v geckodriver /usr/local/bin/
+ 
+ For 64 Bit OS:
+
+Download Geckodriver From here: https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz
+Open terminal and go to the forder where you installed Geckodriver
+Type These:
+ tar -xvzf geckodriver*
+ chmod +x geckodriver
+ sudo mv -v geckodriver /usr/local/bin/
 
 ➖➖➖➖➖➖
 Coded by: erfan4lx
