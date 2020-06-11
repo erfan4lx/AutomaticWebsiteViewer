@@ -10,18 +10,18 @@ For 32 Bit OS:
 1-Download Geckodriver From here: https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux32.tar.gz
 2-Open terminal and go to the forder where you installed Geckodriver
 3-Type These:
- tar -xvzf geckodriver* 
- chmod +x geckodriver 
- sudo mv -v geckodriver /usr/local/bin/ 
+ 1-tar -xvzf geckodriver* Then 
+ 2-chmod +x geckodriver Then
+ 3-sudo mv -v geckodriver /usr/local/bin/ 
  
  For 64 Bit OS:
  
 1-Download Geckodriver From here: https://github.com/mozilla/geckodriver/releases/download/v0.26.0/geckodriver-v0.26.0-linux64.tar.gz
 2-Open terminal and go to the forder where you installed Geckodriver
 3-Type These:
- tar -xvzf geckodriver*
- chmod +x geckodriver
- sudo mv -v geckodriver /usr/local/bin/
+ 1-tar -xvzf geckodriver* Then
+ 2-chmod +x geckodriver Then
+ 3-sudo mv -v geckodriver /usr/local/bin/
 
 ➖➖➖➖➖➖
 Coded by: erfan4lx
