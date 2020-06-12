@@ -45,6 +45,6 @@ Coded by: erfan4lx
 ***
 Contact me to buy the special tool of this video  =>
 
-🌐 Contact me via Email : erfan4lx@gmail.com 🌐 
-🌐 Contact me via Telegram : https://telegram.me/erfan4lx 🌐
+🌐  Contact me via Email : erfan4lx@gmail.com 🌐  
+🌐  Contact me via Telegram : https://telegram.me/erfan4lx 🌐 
 ***
