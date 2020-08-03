@@ -35,14 +35,6 @@ Coded by: erfan4lx
 
 ➖➖➖➖➖➖
 
-🆔 Our Youtube Channel : https://www.youtube.com/channel/UCHL7e6sD1eXIBIvjBYnXYEQ
-
-🆔 Our Telegram Channel : https://t.me/M4nifest0
-
-🆔 Our Website : http://vortex-team.org
-
-🆔 Our Telegram Channel : https://t.me/Unidentified_TM
-
 
 ***
 Contact me to buy the special tool of this video  =>
@@ -50,3 +42,18 @@ Contact me to buy the special tool of this video  =>
 🌐   Contact me via Email : erfan4lx@gmail.com 🌐 
 🌐   Contact me via Telegram : https://telegram.me/erfan4lx 🌐 
 ***
+
+🆔 Our Telegram Channel : https://t.me/M4nifest0
+
+🆔 Our Website : http://vortex-team.org
+
+🆔 Our Telegram Channel : https://t.me/Unidentified_TM
+
+<p align="center">
+  Follow Me On
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCHL7e6sD1eXIBIvjBYnXYEQ/videos?view_as=subscriber">
+    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
+  </a>
+</p>
