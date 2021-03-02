@@ -3,7 +3,9 @@ Automatically Any Website Viewer
 ***
  Just open the file with Python3 but before install the Geckodriver! I put it on down for install
 ***
-Show in Youtube : https://youtu.be/ObTv_8LstM8
+Show full video on YouTube : https://youtu.be/ObTv_8LstM8
+
+Show demo video on Instagram : https://www.instagram.com/p/CL7ogUFA29M
 
 Installation Of Geckodriver:
 
@@ -24,17 +26,7 @@ For 32 Bit OS:
  1-tar -xvzf geckodriver* 
  2-chmod +x geckodriver 
  3-sudo mv -v geckodriver /usr/local/bin/
-
-➖➖➖➖➖➖
-Coded by: erfan4lx
-➖➖➖➖➖➖
-
-👊 ʍ4ղíƒҽՏԵ0 ϲվҍҽɾ ՏҽϲմɾíԵվ Եҽɑʍ™💪
-
-🔥 ฿Ⱡ₳₵₭ Ⱨ₳₮ Ⱨ₳₵₭ɆⱤ 🔥
-
-➖➖➖➖➖➖
-
+ 
 
 🆔My YouTube Channel : http://youtube.com/erfan4lx
 
