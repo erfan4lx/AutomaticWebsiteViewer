@@ -12,7 +12,7 @@ Show demo video on Instagram : https://www.instagram.com/p/CMVGNEngTvH
 
 Contact with me to get the Password of Zip file on :
 
- Telegram : https://t.me/erfan4lx1
+ Telegram : https://t.me/erfan4lx
   
  Email : erfan4lx@gmail.com
 
@@ -37,9 +37,9 @@ For 32 Bit OS:
  3-sudo mv -v geckodriver /usr/local/bin/
  
 
-🆔My YouTube Channel : http://youtube.com/erfan4lx
+🆔My YouTube Channel : https://youtube.com/erfan4lx
 
-🆔My Telegram Channel : https://t.me/Erfan4lxTeam
+🆔My Telegram Channel : https://t.me/erfan4lx_channel
 
 🆔My Instagram Page : https://www.instagram.com/_erfan4lx_/
 
