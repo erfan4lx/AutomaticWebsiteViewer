@@ -1,2 +1,2 @@
-requests==2.21.0
+requests==2.31.0
 selenium==3.14.1
