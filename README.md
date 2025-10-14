@@ -8,8 +8,6 @@ Automatically Any Website Viewer
 
 Show full video on YouTube : https://youtu.be/ObTv_8LstM8
 
-Show demo video on Instagram : https://www.instagram.com/p/CMVGNEngTvH
-
 Contact with me to get the Password of Zip file on :
 
  Telegram : https://t.me/erfan4lx10
@@ -40,8 +38,6 @@ For 32 Bit OS:
 🆔My YouTube Channel : https://youtube.com/erfan4lx
 
 🆔My Telegram Channel : https://t.me/erfan4lx_news
-
-🆔My Instagram Page : https://www.instagram.com/_erfan4lx_/
 
 <p align="center">
   Follow Me On
